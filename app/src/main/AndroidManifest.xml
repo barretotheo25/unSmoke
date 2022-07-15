@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UnSmoke">
         <activity
+            android:name=".TelaRegistroCigarro"
+            android:exported="false" />
+        <activity
             android:name=".TelaPadraoUso"
             android:exported="false" />
         <activity
