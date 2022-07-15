@@ -8,6 +8,7 @@
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/drawable/caixa_login.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/drawable/container_components.xml" value="0.21481481481481482" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/drawable/plaintext_arredondado.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/drawable/spinner_rg_cigarro.xml" value="0.17592592592592593" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/drawable/texto_padroes_uso.xml" value="0.1962962962962963" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.21614583333333334" />
@@ -15,6 +16,7 @@
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/layout/tela_inicial.xml" value="0.33" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/layout/tela_login.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/layout/tela_padrao_uso.xml" value="0.5" />
+        <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/layout/tela_registro_cigarro.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/theo_b_silva/AndroidStudioProjects/unSmoke/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.23229166666666667" />
       </map>
